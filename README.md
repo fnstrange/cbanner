@@ -1,5 +1,8 @@
 CBANNER.PY es un programilla escrito en python que te permitirá configurar un banner personalizado para tu sistema operativo Linux. Para utilizarlo sólo debes seguir estos pasos:
 
+
+![Captura](https://github.com/fnstrange/scripts/assets/101374780/4231abb7-8525-45f5-be21-4d5f94be4ddd)
+
 0. Preparación del sistema descargando los paquetes necesarios:
     #pip install requests
     #pip install psutil
